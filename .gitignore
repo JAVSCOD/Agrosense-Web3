@@ -1,0 +1,30 @@
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Next.js
+.next/
+out/
+
+# Env
+.env
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+
+# Rust / Anchor
+target/
+Cargo.lock
+
+# Solana
+*.json
+id.json
+
+# VSCode
+.vscode/
+
